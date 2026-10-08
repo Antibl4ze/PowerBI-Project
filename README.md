@@ -2,6 +2,9 @@
 
 A Power BI dashboard built on real survey responses from data professionals.
 
+## Dashboard
+![Data professionals survey Power BI dashboard](images/powerbi-dashboard.png)
+
 ## What I did
 - Cleaned the survey data in Power BI: kept the relevant columns and turned free-text answers into usable categories
 - Used DAX to calculate measures such as average salary
